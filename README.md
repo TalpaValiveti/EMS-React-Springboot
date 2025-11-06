@@ -37,15 +37,15 @@ MODULES
   - Generate and view payslips.
   - Department-wise payroll analysis using charts.
 4. Dashboards
-  - **Admin Dashboard:**
+  - Admin Dashboard:
     - Manage HR and employee accounts.
     - View total employees, departments, and payroll statistics through interactive charts.
     - Receive real-time notification alerts on employee additions, payroll updates, and HR activities.
-  - **HR Dashboard**:
+  - HR Dashboard:
     - Manage employee and payroll records.
     - Access department-wise analytics via bar and pie charts.
     - Track payroll distribution visually.
-  - **Employee Dashboard:**
+  - Employee Dashboard:
     - View personal details, attendance, and payroll history.
     - Get a visual summary of salary trends through interactive charts.
 5. Database Integration
