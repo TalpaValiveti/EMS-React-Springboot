@@ -86,20 +86,20 @@ EXECUTION GUIDE
 -------------------------------------------
 LOGIN CREDENTIALS 
 -------------------------------------------
-+----------+----------+
-| username | password |
-+----------+----------+
-| hr1      | hr123    |
-| emp1     | emp123   |
-| emp2     | emp123   |
-| emp3     | emp123   |
-| emp5     | emp123   |
-| admin    | admin123 |
-| hr2      | hr123    |
-| emp6     | emp123   |
-| emp7     | emp123   |
-| emp8     | emp123   |
-+----------+----------+
+
+- username | password 
+
+-| hr1      | hr123    |
+-| emp1     | emp123   |
+-| emp2     | emp123   |
+-| emp3     | emp123   |
+-| emp5     | emp123   |
+-| admin    | admin123 |
+-| hr2      | hr123    |
+-| emp6     | emp123   |
+-| emp7     | emp123   |
+-| emp8     | emp123   |
+
 
 -------------------------------------------
 PROJECT STATUS
