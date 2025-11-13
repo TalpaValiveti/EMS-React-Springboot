@@ -1,10 +1,10 @@
-===========================================
+========================================
 EMPLOYEE MANAGEMENT SYSTEM (EMS)
-===========================================
-Developer: Talpa Saivaliveti
-Date: November 5, 2025
-Technology Stack: Spring Boot, React.js, MySQL, REST API
-Version: 2.0
+========================================
+- Developer: Talpa Saivaliveti
+- Date: November 5, 2025
+- Technology Stack: Spring Boot, React.js, MySQL, REST API
+- Version: 2.0
 -------------------------------------------
 
 PROJECT OVERVIEW
